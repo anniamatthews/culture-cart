@@ -1,6 +1,6 @@
  
-### Howard University Computer Science Senior Design Project 
-CultureCart was built to connect customers with minority-owned businesses in their communities and beyond, fostering a more inclusive marketplace where all entrepreneurs can thrive.
+### CultureCart 
+This product was built to connect customers with minority-owned businesses in their communities and beyond, fostering a more inclusive marketplace where all entrepreneurs can thrive.
 
 ### Tech Stack 
 ![image](https://github.com/user-attachments/assets/a049ed0e-0d89-4efd-acc5-aa1434fce69f)
