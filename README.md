@@ -3,6 +3,7 @@
 This product was built to connect customers with minority-owned businesses in their communities and beyond, fostering a more inclusive marketplace where all entrepreneurs can thrive.
 
 ### Tech Stack 
+<img src="![image](https://github.com/user-attachments/assets/1bcd15aa-e270-4708-a4f7-6729c0061f19)" width="300px"/>
 ![image](https://github.com/user-attachments/assets/1bcd15aa-e270-4708-a4f7-6729c0061f19)
 ![image](https://github.com/user-attachments/assets/d1ddc206-234a-4dd0-b559-cef8ef0cff9e)
 ![image](https://github.com/user-attachments/assets/3925ff9c-b283-489c-b40f-a87369d4405e)
