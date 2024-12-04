@@ -1,3 +1,9 @@
-CultureCart
-https://docs.google.com/presentation/d/1iiuXll8ytSkV1uCb4VuFgeaL9G5AyYs80pBJsvVd2ag/edit?usp=sharing
+# CultureCart 
+## Howard University Computer Science Senior Design Project 
+This product was built connect customers with minority-owned businesses in their communities and beyond, fostering a more inclusive marketplace where all entrepreneurs can thrive.
 
+### Tech Stack 
+
+### Main Features 
+
+### Links 
