@@ -1,16 +1,16 @@
  
-# 🌍 CultureCart 
+# CultureCart 
 
 This product was built to connect customers with minority-owned businesses in their communities and beyond, fostering a more inclusive marketplace where all entrepreneurs can thrive.
 
-### 🛠️ Tech Stack 
+### Tech Stack 
 
 * React
 * Bootstrap
 * Node.js
 * AWS RDS and S3
 
-### 🚀 Main Features 
+### Main Features 
 
 * Login / signup
 * User profile and settings
@@ -19,7 +19,7 @@ This product was built to connect customers with minority-owned businesses in th
 * Mock Advertisements
 * Search
 
-### 🎬 Demo
+### Demo
 
 [![Watch the video](https://i.ytimg.com/an_webp/kSQ5ea9SE4k/mqdefault_6s.webp?du=3000&sqp=CMnCvroG&rs=AOn4CLAUUeEpJFxQmm6B9ZB3ETO3naXT9A)](https://youtu.be/kSQ5ea9SE4k?si=JFzPcGF73bskNj8Q)
 
